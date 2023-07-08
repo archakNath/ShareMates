@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.r.chuck.sharemates">
    <application
-        android:label="sharemates"
+        android:label="ShareMates"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
