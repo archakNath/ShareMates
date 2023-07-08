@@ -2,6 +2,12 @@
 
 The ShareMates App is a convenient and user-friendly application designed to simplify managing shared expenses among friends living together under the same roof. With this app, you can effortlessly keep track of shared bills, rent, groceries, and other expenses, ensuring transparency and fairness in financial matters.
 
+### Important links
+
+- **UI Design(Figma):** https://www.figma.com/file/lazPR6Gm0vigQCcgePC6V2/ShareMates?type=design&node-id=0%3A1&mode=design&t=h8mc28UEtp8Fvnnv-1
+- **Activity Wireframe(Whimsical):** https://whimsical.com/sharemates-82XcN9m8fX1MrDBVkJNbFg
+- **App Inspirition(Behance):** https://www.behance.net/gallery/131043209/Alice-DeFi-app?tracking_source=search_projects|finance+ui+app
+
 ## Key Features
 
 - **Expense Tracking:** Easily record and categorize shared expenses, keeping a clear record of who paid for what.
